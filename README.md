@@ -81,3 +81,21 @@ H2 , Lombok, Validation
 - Entity 생성
 - H2 Console 결과 확인 
 
+
+
+---
+
+#### Day - 03
+
+#### [ 오늘의 학습 ]
+
+- JWT 설정 추가
+- JWT 관련코드 개발
+- Security 설정 추가
+
+
+
+---
+
+
+
