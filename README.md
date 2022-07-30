@@ -104,6 +104,8 @@ H2 , Lombok, Validation
 - 외부와의 통신에 사용할 DTO 클래스 생성
 - Repository 관려 코드 생성
 - 로그인 API, 관련 로직 생성
+- 회원검증 API 생성
+- 권한검증 확인
 
 
 
