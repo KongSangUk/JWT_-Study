@@ -72,7 +72,7 @@ H2 , Lombok, Validation
 
 ---
 
-#### Day - 2
+#### Day - 02
 
 #### [ 오늘의 학습 ]
 
