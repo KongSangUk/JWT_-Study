@@ -5,6 +5,8 @@
 
 
 
+#### DAY-01
+
 JWT는 RFC 7519 웹 표준으로 지정이 되어있고, JSON 객체를 사용해서 토큰 자체에 정보들을 저장하고 있는 Web Token이라고 정의할 수 있다. 특희, JWT 를 이용하는 방식은 헤비하지 않고 아주 간편하고 쉽게 적용 가능하다.
 
 
@@ -70,5 +72,12 @@ H2 , Lombok, Validation
 
 ---
 
+#### Day - 2
 
+#### [ 오늘의 학습 ]
+
+- 401 unauthorized 해결을 위한 Security 설정
+- Datasource, JPA 설정
+- Entity 생성
+- H2 Console 결과 확인 
 
